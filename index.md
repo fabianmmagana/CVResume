@@ -1,31 +1,94 @@
-## Fabian Magaña-Sandoval
+### Fabian Magaña-Sandoval
 
-Information 1
+## Education
 
-### Markdown
+2012 - 2018     PhD Candidate, Syracuse University, New York
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2010 - 2012     B.S. in Physics, California State University, Fullerton
 
-```markdown
-Syntax highlighted code block
+2006 - 2010    A.A. Liberal Arts, Santa Ana Community College
 
-# Header 1
-## Header 2
-### Header 3
+2002 - 2005     Health Academy
 
-- Bulleted
-- List
+## Work Experience
 
-1. Numbered
-2. List
+2013 – 2018      Research Assistant, Syracuse, NY
 
-**Bold** and _Italic_ and `Code` text
+2010 – 2013      Research Assistant, Fullerton, CA
 
-[Link](url) and ![Image](src)
-```
+2005 – 2008     Corvel Medical Billing, Orange, CA
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+2008 – 2010      Science tutor, Santa Ana, CA
 
-### Jekyll Themes
+## Skills
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fabianmmagana/website/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+OS: Linux/Unix, Mac OS, Windows
+
+Typography: LaTeX, Microsoft Office
+
+Programming: C/C++, HTML, Python
+
+Scientific: Matlab, Mathematica, LabVIEW
+
+CAD: SOLIDWORKS, TinkerCAD
+
+Design: Photoshop, Illustrator, Inkscape, Blender
+
+Languages: English and Spanish
+
+## Patents
+
+Laser mode converter wavefront sensor telescope
+
+## Memberships and Awards
+
+2012                    Wolfram Award
+
+2011 - 2012      Member of Society of Physics Students (SPS)
+
+2011 - 2012      Physics Club at California State University, Fullerton
+
+2011 - 2012      Dan Black Physics-Business Scholarship
+
+2011 - 2012      CSU/EDISON Transfer Scholarship Program
+
+2013-2015       STEM Fellowship
+
+## Publications
+
+Magaña-Sandoval F, Smith J, Harms J, Lee J. “Large-angle scattering measurements for quantum-noise filter-cavity mirrors.” Submitted to Journal of the Optical Society of America A. This paper describes measurements of scattered light from high quality optics, and implications for the performance filter cavities in Advanced LIGO.
+
+
+
+## Presentations
+
+March 2012
+
+“Scatter measurements at CSU, Fullerton”
+
+LIGO Scientific Collaboration meeting at Massachusetts Institute of Technology (MIT), Cambridge
+
+
+
+October 2011
+
+"Measuring light scatter for future LIGO optics."
+
+Society for Advancement of Chicanos and Native Americans in Science meeting. San Jose, California
+
+
+
+August 2011
+
+"Measuring light scatter for future LIGO optics."
+
+California State University, Fullerton.
+
+
+
+October 2008
+
+"Stable isotope composition of nitrous oxide in Los Angeles, California."
+
+Salt Lake City, Utah
+
